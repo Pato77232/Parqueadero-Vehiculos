@@ -41,6 +41,7 @@ arbol-bst-empresa-cpp/
 ```
 
 ## Cómo ejecutar el programa
+Se recomienda clonar el repositorio con git y abrir el proyecto el visual studio code, pero si se descarga directamente los archivos ArbolBST.cpp y ArbolBST.exe, tambien se puede ejecutar desde visual studio code.
 
 ### Compilar
 
