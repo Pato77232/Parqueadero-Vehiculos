@@ -83,16 +83,15 @@ arbol.exe
 
 ## Capturas
 
-Agregar imágenes de:
-
 ![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
 
 ## Conclusión
 
 El uso de árboles BST permite organizar información de manera eficiente, facilitando búsquedas rápidas y una estructura jerárquica clara.
-
-## Evidencia
-
-* Código funcional en C++
-* Capturas de ejecución
-* Participación del equipo mediante commits en GitHub
