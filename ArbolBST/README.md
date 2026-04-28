@@ -85,11 +85,7 @@ arbol.exe
 
 Agregar imágenes de:
 
-1. Menú principal
-2. Inserción de empleados
-3. Búsqueda
-4. Recorridos
-5. Altura y nodos hoja
+![alt text](image.png)
 
 ## Conclusión
 
